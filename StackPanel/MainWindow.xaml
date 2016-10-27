@@ -5,8 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:StackPanel"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        
-    </Grid>
+        Title="StackPanel" Height="350" Width="525">
+    <StackPanel>
+        <Button Content="Bouton1"/>
+        <Button Content="Bouton2"/>
+        <Button Content="Bouton3"/>
+        <Button Content="Bouton4"/>
+        <Button Content="Bouton5"/>
+        <Button Content="Bouton6"/>
+    </StackPanel>
 </Window>
