@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:StackPanel"
         mc:Ignorable="d"
-        Title="StackPanel" Height="350" Width="525">
-    <StackPanel>
+        Title="StackPanel Horizontal" Height="350" Width="525">
+    <StackPanel Orientation="Horizontal">
         <Button Content="Bouton1"/>
         <Button Content="Bouton2"/>
         <Button Content="Bouton3"/>
